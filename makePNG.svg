@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000001"
-     inkscape:cx="219.91275"
-     inkscape:cy="130.2169"
+     inkscape:cx="-225.08724"
+     inkscape:cy="73.074044"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1825"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -43,7 +43,7 @@
        position="0,135.46666"
        orientation="0,1"
        id="guide5916"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
@@ -57,14 +57,14 @@
        position="67.733331,0"
        orientation="1,0"
        id="guide5920"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,67.733331"
        orientation="0,1"
        id="guide5922"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -100,9 +100,10 @@
        height="135.46666"
        x="0"
        y="158.53334"
-       style="stroke-width:0.26458332"
+       style="fill:none;stroke-width:0.26458332"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\GitHub\HoloLens-MDL2_Icons\png512\E8FB_checkmark.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -129,11 +130,24 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="0.63831526"
        y="297.59512"
-       id="text5878"><tspan
+       id="text5878"
+       inkscape:export-filename="C:\GitHub\HoloLens-MDL2_Icons\png512\E760_circle_left.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan5876"
          x="0.63831526"
          y="297.59512"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.05555725px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.26458332"></tspan></text>
-  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.05555725px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.26458332"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion21"><rect
+           id="rect23"
+           width="512"
+           height="511.99997"
+           x="0"
+           y="599.18115" /></flowRegion><flowPara
+         id="flowPara25"></flowPara></flowRoot>  </g>
 </svg>
