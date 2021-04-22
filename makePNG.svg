@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    viewBox="0 0 210 294"
    version="1.1"
    id="svg5850"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="makePNG.svg">
   <defs
      id="defs5844" />
@@ -26,19 +24,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="694.6897"
-     inkscape:cy="297.05607"
+     inkscape:zoom="0.96847332"
+     inkscape:cx="325.20689"
+     inkscape:cy="730.30765"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="2489"
+     inkscape:window-width="2498"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="0,135.46666"
        orientation="0,1"
@@ -107,7 +106,7 @@
        inkscape:export-filename="C:\GitHub\HoloLens-MDL2_Icons\png512\E767_sound.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="1.0690781"
        y="-58.468479"
        id="text5882"><tspan
@@ -115,11 +114,10 @@
          id="tspan5880"
          x="1.0690781"
          y="-58.468479"
-         style="stroke-width:0.26458332">HoloLens MDL2 Assets size=380でぴったり</tspan><tspan
+         style="stroke-width:0.264583">HoloLens MDL2 Assets size=380でぴったり</tspan><tspan
          sodipodi:role="line"
          x="1.0690781"
          y="-45.239311"
-         style="stroke-width:0.26458332"
          id="tspan5884" /></text>
     <rect
        style="fill:#ffff00;stroke:#7ff0f0;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -145,8 +143,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Base Color"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#cccccc;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect858-0"
@@ -154,7 +151,7 @@
        height="135.46666"
        x="0.49635834"
        y="158.03699"
-       inkscape:export-filename="C:\GitHub\HoloLens-MDL2_Icons\png512\E73F_soundmute.png"
+       inkscape:export-filename="C:\GitHub\ControllerFunction\unity\ControllerFunction\Assets\App\Images\icon_FWD.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -174,7 +171,8 @@
            height="511.99997"
            x="0"
            y="599.18115" /></flowRegion><flowPara
-         id="flowPara25" /></flowRoot>    <flowRoot
+         id="flowPara25" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot831"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -185,9 +183,10 @@
            height="107.14285"
            x="1024.2856"
            y="542.60968" /></flowRegion><flowPara
-         id="flowPara837" /></flowRoot>    <text
+         id="flowPara837" /></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="0.33286428"
        y="289.8009"
        id="text5878"
@@ -198,85 +197,100 @@
          id="tspan5876"
          x="0.33286428"
          y="289.8009"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.05555725px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.26458332"></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.056px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.264583"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Font描画 1"
-     style="display:none;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="0.50456035"
-       y="289.7851"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-134.56056"
+       y="-158.90414"
        id="text5878-5"
-       inkscape:export-filename="C:\GitHub\HoloLens-MDL2_Icons\png512\E73F_soundmute.png"
+       inkscape:export-filename="C:\GitHub\ControllerFunction\unity\ControllerFunction\Assets\App\Images\icon_FWD.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       transform="scale(-1)"><tspan
          sodipodi:role="line"
          id="tspan5876-0"
-         x="0.50456035"
-         y="289.7851"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.05555725px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.26458332"></tspan></text>
+         x="-134.56056"
+         y="-158.90414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.056px;line-height:0;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#ffffff;stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.6111px;line-height:0.0499999;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.341871"
+       x="22.06916"
+       y="246.33195"
+       id="text57"
+       inkscape:export-filename="C:\GitHub\ControllerFunction\unity\ControllerFunction\Assets\App\Images\icon_FWD.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(0.98039533,1.0199967)"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         x="22.06916"
+         y="246.33195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.6111px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.341871">15</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="QR"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:9.42117023;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:9.42117;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8"
        width="28.678829"
        height="28.678829"
        x="27.200172"
        y="239.0659" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.51608181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-5-4-1"
        width="9.5249996"
        height="9.5249996"
        x="76.459625"
        y="234.35532" />
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:9.42117119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:9.42117;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-2"
        width="28.678831"
        height="28.678831"
        x="27.200172"
        y="185.0771" />
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:9.42117214;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:9.42117;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-2-1"
        width="28.678831"
        height="28.678831"
        x="81.07093"
        y="185.0771" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.51608276;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-5-4-1-5"
        width="9.5249996"
        height="9.5249996"
        x="95.665764"
        y="234.35532" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.51608276;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-5-4-1-4"
        width="9.5249996"
        height="9.5249996"
        x="85.984627"
        y="244.18274" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.51608372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-5-4-1-5-6"
        width="9.5249996"
        height="9.5249996"
        x="95.509628"
        y="253.70773" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.51608372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39-8-5-4-1-5-3"
        width="9.5249996"
        height="9.5249996"
@@ -293,7 +307,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(90)"
          y="-212.72343"
@@ -301,7 +315,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g4852-4"
@@ -314,7 +328,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-9"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(90)"
          y="-212.72343"
@@ -322,7 +336,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-2-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g4852-4-8"
@@ -335,7 +349,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-9-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(90)"
          y="-212.72343"
@@ -343,7 +357,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-2-1-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g4852-4-8-9"
@@ -356,7 +370,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-9-1-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(90)"
          y="-212.72343"
@@ -364,7 +378,7 @@
          height="38.099998"
          width="9.5249996"
          id="rect4702-7-2-1-1-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
